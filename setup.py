@@ -10,7 +10,7 @@ REQUIREMENTS = [
 
 setuptools.setup(
     name="smplpytorch",
-    version="0.0.7",
+    version="0.0.8",
     author="Gul Varol",
     author_email="gulvarols@gmail.com",
     python_requires=">=3.5.0",
